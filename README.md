@@ -19,7 +19,7 @@ This dataset contains **T2-weighted MRI (T2WI)** scans of pelvic regions with co
 | Image Format      | DICOM (Original scans) + PNG (Annotations)  |
 | Patient Cohort    | 151 female patients (Age 28-65)             |
 | Scan Parameters   | 1.5T/3T scanners; Sagittal views            |
-| Annotation Scope  | Tumor boundaries, lymph nodes, organs-at-risk |
+| Annotation Scope  | Tumor boundaries |
 
 ## Data Structure
 root/
