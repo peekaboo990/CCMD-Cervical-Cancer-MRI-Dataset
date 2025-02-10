@@ -1,4 +1,4 @@
-# CCMD-Cervical-Cancer-MRI-Dataset：An Open MRI Dataset for Cervical Cancer with Tumor Segmentation Using nnU-Net
+# CCMD-Cervical-Cancer-MRI-Dataset: An Open MRI Dataset for Cervical Cancer with Tumor Segmentation Using nnU-Net
 
 ## Dataset Overview
 
@@ -17,8 +17,8 @@ This dataset contains **T2-weighted MRI (T2WI)** scans of pelvic regions with co
 | Modality          | T2-weighted MRI (T2WI)                      |
 | Annotation Type   | Expert-labeled ROI masks                    |
 | Image Format      | DICOM (Original scans) + PNG (Annotations)  |
-| Patient Cohort    | 151female patients (Age 28-65)             |
-| Scan Parameters   | 1.5T/3T scanners,Sagittal views      |
+| Patient Cohort    | 151 female patients (Age 28-65)             |
+| Scan Parameters   | 1.5T/3T scanners; Sagittal views            |
 | Annotation Scope  | Tumor boundaries, lymph nodes, organs-at-risk |
 
 ## Data Structure
@@ -32,10 +32,15 @@ root/
 ├── patient_2/
 └── ...
 
+
 ## Download
 
-Access to the dataset is password-protected; please contact us upon request for access details.
-contact email：n13677994752@163.com
+The dataset is available under restricted access for research purposes. To request access:  
+1. Send email to [n13677994752@163.com](mailto:n13677994752@163.com)  
+2. Include your institutional affiliation and research purpose  
+3. Allow 3-5 working days for approval processing  
+
+**Contact email:** [n13677994752@163.com](mailto:n13677994752@163.com)
 
 ## Usage Guidelines
 
@@ -48,10 +53,27 @@ contact email：n13677994752@163.com
 
 Please cite this dataset if used in your research:
 ```bibtex
-@misc{CervicalCancerMRI2023,
-  title = {Cervical Cancer Pelvic MRI Dataset},
-  author = {Your Institution/Name},
-  year = {2023},
-  url = {https://github.com/your-repo},
-  note = {Open dataset containing T2WI scans with expert annotations}
+@misc{CervicalCancerMRI2025,
+  title = {An Open MRI Dataset for Cervical Cancer with Tumor Segmentation Using nnU-Net},
+  author = {
+    Genyun Liu and 
+    Yi Tang and 
+    Lin Guo and 
+    Liwei Zhang and 
+    Qisong Zheng and 
+    Hui Hui and 
+    Li Cai and 
+    Yun Zhou
+  },
+  year = {2025},
+  note = {
+ note = {
+    †Equal contribution, 
+    *Correspondence: liu18912017292@163.com；zhouyun-0528@163.com
+  },
+  url = {https://github.com/peekaboo990/CCMD-Cervical-Cancer-MRI-Dataset},
+  howpublished = {Dataset available via Baidu Cloud: \url{https://pan.baidu.com/...}},
+  publisher = {Xuzhou Medical University Consortium},
+  version = {2.0},
+  license = {CC BY-NC-SA 4.0}
 }
