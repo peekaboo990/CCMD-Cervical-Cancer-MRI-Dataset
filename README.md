@@ -23,15 +23,25 @@ This dataset contains **T2-weighted MRI (T2WI)** scans of pelvic regions with co
 
 ## Data Structure
 ```bash
+
 root/
+
 ├── patient_1/
-│ ├── DICOM/
-│ │ ├── series_1/
-│ │ └── series_2/
-│ └── Annotations/
-│ ├── tumor_mask.png
+
+│ ├── volumes/
+
+│ │ ├── t2w.nrrd
+
+│ │ └── contrast-enhanced.nrrd
+
+│ └── annotations/
+
+│ ├── tumor_mask.nrrd
+
 ├── patient_2/
+
 └── ...
+
 ```
 
 
