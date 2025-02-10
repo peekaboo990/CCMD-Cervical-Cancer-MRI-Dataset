@@ -30,7 +30,7 @@ root/
 
 │ ├── volumes/
 
-│ │ ├── t2w.nrrd
+│ │ ├── T2wI.nrrd
 
 │ └── annotations/
 
