@@ -32,8 +32,6 @@ root/
 
 │ │ ├── t2w.nrrd
 
-│ │ └── contrast-enhanced.nrrd
-
 │ └── annotations/
 
 │ ├── tumor_mask.nrrd
