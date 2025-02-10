@@ -1,2 +1,2 @@
 # CCMD-Cervical-Cancer-MRI-Dataset
-an open MRI dataset for cervical cancer
+An open MRI dataset for cervical cancer
