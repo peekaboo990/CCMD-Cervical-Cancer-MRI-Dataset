@@ -66,14 +66,5 @@ Please cite this dataset if used in your research:
     Yun Zhou
   },
   year = {2025},
-  note = {
- note = {
-    †Equal contribution, 
-    *Correspondence: liu18912017292@163.com；zhouyun-0528@163.com
-  },
   url = {https://github.com/peekaboo990/CCMD-Cervical-Cancer-MRI-Dataset},
-  howpublished = {Dataset available via Baidu Cloud: \url{https://pan.baidu.com/...}},
-  publisher = {Xuzhou Medical University Consortium},
-  version = {2.0},
-  license = {CC BY-NC-SA 4.0}
 }
