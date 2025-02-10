@@ -22,6 +22,7 @@ This dataset contains **T2-weighted MRI (T2WI)** scans of pelvic regions with co
 | Annotation Scope  | Tumor boundaries |
 
 ## Data Structure
+```bash
 root/
 ├── patient_1/
 │ ├── DICOM/
@@ -31,6 +32,7 @@ root/
 │ ├── tumor_mask.png
 ├── patient_2/
 └── ...
+```
 
 
 ## Download
