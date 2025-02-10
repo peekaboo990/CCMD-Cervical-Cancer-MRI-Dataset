@@ -34,10 +34,8 @@ root/
 
 ## Download
 
-The dataset is available via Baidu Cloud:
-
-[![Baidu Pan](https://pan.baidu.com/your-link-here](https://pan.baidu.com/s/1Kdw-Wznm4iB65WGp1ATfCQ?pwd=ri77))   
-**Extract Code:** ri77 
+Access to the dataset is password-protected; please contact us upon request for access details.
+contact email：n13677994752@163.com
 
 ## Usage Guidelines
 
